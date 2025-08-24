@@ -1,4 +1,4 @@
-# PepsiCo Snacks Division - Invoice Generation System
+# Invoice Generation System
 
 A specialized digital invoice generation system built for PepsiCo Snacks Division distributors and operations teams. This system streamlines the order-to-invoice workflow for snacks products including Lays, Doritos, Kurkure, Cheetos, and Uncle Chips.
 
