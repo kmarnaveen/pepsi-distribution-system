@@ -11,7 +11,7 @@ import {
   Search,
   Filter,
 } from "lucide-react";
-import plantsData from "../../../../lib/plants-data.json";
+import plantsData from "../../../lib/plants-data.json";
 
 export default function PlantsPage() {
   const [searchTerm, setSearchTerm] = useState("");
