@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+@layer base {
+  body {
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+  
+  /* Improve text rendering */
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom component styles */
+@layer components {
+  .btn-primary {
+    @apply bg-pepsi-blue hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition-colors;
+  }
+  
+  .btn-secondary {
+    @apply border-2 border-pepsi-blue text-pepsi-blue hover:bg-pepsi-blue hover:text-white font-medium py-2 px-4 rounded-lg transition-colors;
+  }
+  
+  .btn-danger {
+    @apply bg-pepsi-red hover:bg-red-700 text-white font-medium py-2 px-4 rounded-lg transition-colors;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-sm p-4 hover:shadow-md transition-shadow;
+  }
+  
+  .input-field {
+    @apply border border-gray-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-pepsi-blue focus:border-pepsi-blue outline-none transition-colors;
+  }
+  
+  .status-pending {
+    @apply bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium;
+  }
+  
+  .status-approved {
+    @apply bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium;
+  }
+  
+  .status-rejected {
+    @apply bg-red-100 text-red-800 px-3 py-1 rounded-full text-sm font-medium;
+  }
+  
+  .status-processing {
+    @apply bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium animate-pulse-slow;
+  }
+}
+
+/* Safe area support for mobile */
+@supports (padding: max(0px)) {
+  .safe-area-top {
+    padding-top: max(1rem, env(safe-area-inset-top));
+  }
+  
+  .safe-area-bottom {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+}

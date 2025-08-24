@@ -1,0 +1,155 @@
+{
+  "region": "South",
+  "plants": [
+    {
+      "code": "5711",
+      "name": "Bangalore",
+      "location": "Bangalore, Karnataka",
+      "region": "South",
+      "coordinates": {
+        "lat": 12.9716,
+        "lng": 77.5946
+      },
+      "capacity": "High",
+      "status": "Active",
+      "distributionRadius": "200km"
+    },
+    {
+      "code": "5524",
+      "name": "Chennai",
+      "location": "Chennai, Tamil Nadu",
+      "region": "South",
+      "coordinates": {
+        "lat": 13.0827,
+        "lng": 80.2707
+      },
+      "capacity": "High",
+      "status": "Active",
+      "distributionRadius": "250km"
+    },
+    {
+      "code": "5503",
+      "name": "Cochin Primary",
+      "location": "Cochin, Kerala",
+      "region": "South",
+      "coordinates": {
+        "lat": 9.9312,
+        "lng": 76.2673
+      },
+      "capacity": "Medium",
+      "status": "Active",
+      "distributionRadius": "150km"
+    },
+    {
+      "code": "5523",
+      "name": "Cochin Secondary",
+      "location": "Cochin, Kerala",
+      "region": "South",
+      "coordinates": {
+        "lat": 9.9312,
+        "lng": 76.2673
+      },
+      "capacity": "Medium",
+      "status": "Active",
+      "distributionRadius": "150km"
+    },
+    {
+      "code": "5526",
+      "name": "Coimbatore",
+      "location": "Coimbatore, Tamil Nadu",
+      "region": "South",
+      "coordinates": {
+        "lat": 11.0168,
+        "lng": 76.9558
+      },
+      "capacity": "Medium",
+      "status": "Active",
+      "distributionRadius": "180km"
+    },
+    {
+      "code": "5702",
+      "name": "Hubli",
+      "location": "Hubli, Karnataka",
+      "region": "South",
+      "coordinates": {
+        "lat": 15.3647,
+        "lng": 75.1240
+      },
+      "capacity": "Medium",
+      "status": "Active",
+      "distributionRadius": "160km"
+    },
+    {
+      "code": "5710",
+      "name": "Hyderabad",
+      "location": "Hyderabad, Telangana",
+      "region": "South",
+      "coordinates": {
+        "lat": 17.3850,
+        "lng": 78.4867
+      },
+      "capacity": "High",
+      "status": "Active",
+      "distributionRadius": "220km"
+    },
+    {
+      "code": "5709",
+      "name": "Mangalore",
+      "location": "Mangalore, Karnataka",
+      "region": "South",
+      "coordinates": {
+        "lat": 12.9141,
+        "lng": 74.8560
+      },
+      "capacity": "Medium",
+      "status": "Active",
+      "distributionRadius": "140km"
+    },
+    {
+      "code": "5514",
+      "name": "Trichy",
+      "location": "Trichy, Tamil Nadu",
+      "region": "South",
+      "coordinates": {
+        "lat": 10.7905,
+        "lng": 78.7047
+      },
+      "capacity": "Medium",
+      "status": "Active",
+      "distributionRadius": "170km"
+    },
+    {
+      "code": "5712",
+      "name": "Visakhapatnam",
+      "location": "Visakhapatnam, Andhra Pradesh",
+      "region": "South",
+      "coordinates": {
+        "lat": 17.6868,
+        "lng": 83.2185
+      },
+      "capacity": "High",
+      "status": "Active",
+      "distributionRadius": "200km"
+    },
+    {
+      "code": "5703",
+      "name": "Vijayawada",
+      "location": "Vijayawada, Andhra Pradesh",
+      "region": "South",
+      "coordinates": {
+        "lat": 16.5062,
+        "lng": 80.6480
+      },
+      "capacity": "Medium",
+      "status": "Active",
+      "distributionRadius": "180km"
+    }
+  ],
+  "totalPlants": 11,
+  "regionStats": {
+    "highCapacityPlants": 4,
+    "mediumCapacityPlants": 7,
+    "totalCoverage": "Complete South India",
+    "avgDistributionRadius": "175km"
+  }
+}

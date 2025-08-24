@@ -1,0 +1,191 @@
+{
+  "distributorInfo": {
+    "id": "DB-2024-001",
+    "name": "Bangalore Central",
+    "location": "Bangalore, Karnataka",
+    "region": "South",
+    "servingPlant": {
+      "code": "5711",
+      "name": "Bangalore",
+      "location": "Bangalore, Karnataka"
+    },
+    "coverageArea": "Karnataka State",
+    "distributionRadius": "200km"
+  },
+  "recentInvoices": [
+    {
+      "id": "INV-2025-001",
+      "date": "2025-08-23",
+      "status": "Paid",
+      "amount": "₹25,450",
+      "items": 15,
+      "gstAmount": "₹3,830"
+    },
+    {
+      "id": "INV-2025-002",
+      "date": "2025-08-22",
+      "status": "Pending",
+      "amount": "₹18,200",
+      "items": 12,
+      "gstAmount": "₹2,736"
+    },
+    {
+      "id": "INV-2025-003",
+      "date": "2025-08-21",
+      "status": "Paid",
+      "amount": "₹32,100",
+      "items": 20,
+      "gstAmount": "₹4,830"
+    }
+  ],
+  "fritoLayBrands": [
+    {
+      "name": "Lays",
+      "icon": "🥔",
+      "logo": "https://www.pepsico.com/images/default-source/dev-testing-images/lay's.png?sfvrsn=7dd0c17c_1",
+      "productCount": 19,
+      "topSelling": "Lays Magic Masala 24g",
+      "href": "/distributor/products?brand=lays"
+    },
+    {
+      "name": "Doritos",
+      "icon": "🌽",
+      "logo": "https://www.pepsico.com/images/default-source/dev-testing-images/doritos.png?sfvrsn=a9ee63f2_1",
+      "productCount": 11,
+      "topSelling": "Doritos Nacho Cheese 22g",
+      "href": "/distributor/products?brand=doritos"
+    },
+    {
+      "name": "Kurkure",
+      "icon": "🌶️",
+      "logo": "https://www.pepsico.com/images/default-source/dev-testing-images/kurkure.png?sfvrsn=e7b5e87e_1",
+      "productCount": 8,
+      "topSelling": "Kurkure Masala Munch 18g",
+      "href": "/distributor/products?brand=kurkure"
+    },
+    {
+      "name": "Cheetos",
+      "icon": "🧀",
+      "logo": "https://www.pepsico.com/images/default-source/dev-testing-images/cheetos.png?sfvrsn=d70e98f8_1",
+      "productCount": 3,
+      "topSelling": "Cheetos Masala Balls 28g",
+      "href": "/distributor/products?brand=cheetos"
+    },
+    {
+      "name": "Uncle Chips",
+      "icon": "🥨",
+      "logo": "https://www.unclechipps.com/wp-content/uploads/2020/08/cropped-uncle-chipps-logo-slogan-1.png",
+      "productCount": 8,
+      "topSelling": "Uncle Chips Spicy Treat 24g",
+      "href": "/distributor/products?brand=uncle-chips"
+    },
+    {
+      "name": "Quaker",
+      "icon": "🌾",
+      "logo": "https://www.pepsico.com/images/default-source/products-brands/quaker-logo---320x320.png?sfvrsn=21025608_3",
+      "productCount": 6,
+      "topSelling": "Quaker Oats 400g",
+      "href": "/distributor/products?brand=quaker"
+    },
+    {
+      "name": "Lay's Wafer",
+      "icon": "🟡",
+      "logo": "https://cdn.grofers.com/da/cms-assets/cms/product/f856898e-e82f-4ee3-952e-711ca0bd3dc0.jpg",
+      "productCount": 5,
+      "topSelling": "Lay's Wafer Cream & Onion 22g",
+      "href": "/distributor/products?brand=lays-wafer"
+    }
+  ],
+  "quickActions": [
+    {
+      "title": "Reorder",
+      "subtitle": "Last week items",
+      "icon": "Package",
+      "href": "/distributor/reorder"
+    },
+    {
+      "title": "Today's Offers",
+      "subtitle": "5 special deals",
+      "icon": "FileText",
+      "href": "/distributor/offers"
+    },
+    {
+      "title": "View Previous Invoices",
+      "subtitle": "3 recent invoices",
+      "icon": "Receipt",
+      "href": "/distributor/invoices"
+    },
+    {
+      "title": "Account Statement",
+      "subtitle": "View balance",
+      "icon": "FileText",
+      "href": "/distributor/account"
+    }
+  ],
+  "todaysHighlights": {
+    "availableStocks": [
+      {
+        "brand": "Lays",
+        "status": "High Stock",
+        "percentage": 95,
+        "message": "All Lays variants well stocked"
+      },
+      {
+        "brand": "Doritos",
+        "status": "Medium Stock",
+        "percentage": 65,
+        "message": "Nacho Cheese running low"
+      },
+      {
+        "brand": "Kurkure",
+        "status": "High Stock",
+        "percentage": 88,
+        "message": "Fresh stock arrived today"
+      },
+      {
+        "brand": "Cheetos",
+        "status": "Medium Stock",
+        "percentage": 70,
+        "message": "Masala Balls popular"
+      },
+      {
+        "brand": "Uncle Chips",
+        "status": "High Stock",
+        "percentage": 92,
+        "message": "Spicy variants in demand"
+      },
+      {
+        "brand": "Quaker",
+        "status": "High Stock",
+        "percentage": 85,
+        "message": "Healthy choice trending"
+      },
+      {
+        "brand": "Lay's Wafer",
+        "status": "Medium Stock",
+        "percentage": 60,
+        "message": "New launch gaining traction"
+      }
+    ],
+    "currentOffers": [
+      {
+        "title": "Lays Family Pack Combo",
+        "description": "Buy 3 get 1 free on 52g packs",
+        "validUntil": "2025-08-26",
+        "discount": "25% Extra"
+      },
+      {
+        "title": "Doritos Weekend Special",
+        "description": "10% off on all Doritos variants",
+        "validUntil": "2025-08-25",
+        "discount": "10% Off"
+      },
+      {
+        "title": "Kurkure Monsoon Offer",
+        "description": "Free display rack with 50 units",
+        "validUntil": "2025-08-30",
+        "discount": "Free Rack"
+      }
+    ]
+  }
+}

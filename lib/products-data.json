@@ -1,0 +1,713 @@
+{
+  "brands": {
+    "lays": {
+      "name": "Lays",
+      "logo": "https://www.pepsico.com/images/default-source/dev-testing-images/lay's.png?sfvrsn=7dd0c17c_1",
+      "icon": "🥔",
+      "products": [
+        {
+          "id": "LAYS_ASCO_11G",
+          "name": "American Style Cream & Onion",
+          "shortName": "ASCO",
+          "variant": "11g",
+          "mrp": 5,
+          "ptr": 4.5,
+          "stock": 250,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_ASCO_28G",
+          "name": "American Style Cream & Onion",
+          "shortName": "ASCO",
+          "variant": "28g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 180,
+          "scheme": "10% Extra",
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_ASCO_28G_WAVY",
+          "name": "American Style Cream & Onion Wavy",
+          "shortName": "ASCO",
+          "variant": "28g Wavy",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 120,
+          "scheme": null,
+          "category": "Wavy"
+        },
+        {
+          "id": "LAYS_ASCO_48G",
+          "name": "American Style Cream & Onion",
+          "shortName": "ASCO",
+          "variant": "48g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 95,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_ASCO_67G",
+          "name": "American Style Cream & Onion",
+          "shortName": "ASCO",
+          "variant": "67g",
+          "mrp": 30,
+          "ptr": 27,
+          "stock": 80,
+          "scheme": "Buy 2 Get 1",
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_ASCO_82G",
+          "name": "American Style Cream & Onion",
+          "shortName": "ASCO",
+          "variant": "82g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 65,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_ASCO_143G",
+          "name": "American Style Cream & Onion",
+          "shortName": "ASCO",
+          "variant": "143g",
+          "mrp": 78,
+          "ptr": 70.2,
+          "stock": 45,
+          "scheme": null,
+          "category": "Family Pack"
+        },
+        {
+          "id": "LAYS_MM_11G",
+          "name": "Magic Masala",
+          "shortName": "MM",
+          "variant": "11g",
+          "mrp": 5,
+          "ptr": 4.5,
+          "stock": 300,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_MM_24G",
+          "name": "Magic Masala",
+          "shortName": "MM",
+          "variant": "24g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 220,
+          "scheme": "15% Extra",
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_MM_35G",
+          "name": "Magic Masala",
+          "shortName": "MM",
+          "variant": "35g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 150,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_MM_48G",
+          "name": "Magic Masala",
+          "shortName": "MM",
+          "variant": "48g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 130,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_MM_67G",
+          "name": "Magic Masala",
+          "shortName": "MM",
+          "variant": "67g",
+          "mrp": 30,
+          "ptr": 27,
+          "stock": 90,
+          "scheme": "Buy 3 Get 1",
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_MM_82G",
+          "name": "Magic Masala",
+          "shortName": "MM",
+          "variant": "82g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 75,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_MM_143G",
+          "name": "Magic Masala",
+          "shortName": "MM",
+          "variant": "143g",
+          "mrp": 78,
+          "ptr": 70.2,
+          "stock": 50,
+          "scheme": null,
+          "category": "Family Pack"
+        },
+        {
+          "id": "LAYS_CS_11G",
+          "name": "Classic Salted",
+          "shortName": "CS",
+          "variant": "11g",
+          "mrp": 5,
+          "ptr": 4.5,
+          "stock": 280,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_CS_35G",
+          "name": "Classic Salted",
+          "shortName": "CS",
+          "variant": "35g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 160,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_CS_48G",
+          "name": "Classic Salted",
+          "shortName": "CS",
+          "variant": "48g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 110,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_CS_67G",
+          "name": "Classic Salted",
+          "shortName": "CS",
+          "variant": "67g",
+          "mrp": 30,
+          "ptr": 27,
+          "stock": 85,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "LAYS_CS_82G",
+          "name": "Classic Salted",
+          "shortName": "CS",
+          "variant": "82g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 70,
+          "scheme": null,
+          "category": "Regular"
+        }
+      ]
+    },
+    "doritos": {
+      "name": "Doritos",
+      "logo": "https://www.pepsico.com/images/default-source/dev-testing-images/doritos74ee3e64-38fd-4b37-9422-d22c22eeba1e.png?sfvrsn=1e8bfdcc_1",
+      "icon": "🌽",
+      "products": [
+        {
+          "id": "DORITOS_NC_22G",
+          "name": "Nacho Cheese",
+          "shortName": "NC",
+          "variant": "22g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 200,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "DORITOS_NC_23G",
+          "name": "Nacho Cheese",
+          "shortName": "NC",
+          "variant": "23g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 180,
+          "scheme": "10% Extra",
+          "category": "Regular"
+        },
+        {
+          "id": "DORITOS_NC_45G",
+          "name": "Nacho Cheese",
+          "shortName": "NC",
+          "variant": "45g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 150,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "DORITOS_NC_50G",
+          "name": "Nacho Cheese",
+          "shortName": "NC",
+          "variant": "50g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 120,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "DORITOS_NC_53G",
+          "name": "Nacho Cheese",
+          "shortName": "NC",
+          "variant": "53g",
+          "mrp": 30,
+          "ptr": 27,
+          "stock": 90,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "DORITOS_NC_60G",
+          "name": "Nacho Cheese",
+          "shortName": "NC",
+          "variant": "60g",
+          "mrp": 35,
+          "ptr": 31.5,
+          "stock": 80,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "DORITOS_NC_75G",
+          "name": "Nacho Cheese",
+          "shortName": "NC",
+          "variant": "75g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 65,
+          "scheme": "Buy 2 Get 1",
+          "category": "Family Pack"
+        },
+        {
+          "id": "DORITOS_NC_82_5G",
+          "name": "Nacho Cheese",
+          "shortName": "NC",
+          "variant": "82.5g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 60,
+          "scheme": null,
+          "category": "Family Pack"
+        },
+        {
+          "id": "DORITOS_NC_153G",
+          "name": "Nacho Cheese",
+          "shortName": "NC",
+          "variant": "153g",
+          "mrp": 90,
+          "ptr": 81,
+          "stock": 40,
+          "scheme": null,
+          "category": "Family Pack"
+        },
+        {
+          "id": "DORITOS_SC_22G",
+          "name": "Sweet Chilli",
+          "shortName": "SC",
+          "variant": "22g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 190,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "DORITOS_SC_23G",
+          "name": "Sweet Chilli",
+          "shortName": "SC",
+          "variant": "23g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 170,
+          "scheme": "10% Extra",
+          "category": "Regular"
+        }
+      ]
+    },
+    "kurkure": {
+      "name": "Kurkure",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Kurkure_Logo.png?20240320110555",
+      "icon": "🌶️",
+      "products": [
+        {
+          "id": "KURKURE_YC_16G",
+          "name": "Playz Puffcorn Yummy Cheese",
+          "shortName": "YC",
+          "variant": "16g",
+          "mrp": 5,
+          "ptr": 4.5,
+          "stock": 300,
+          "scheme": null,
+          "category": "Puffcorn"
+        },
+        {
+          "id": "KURKURE_YC_28G",
+          "name": "Playz Puffcorn Yummy Cheese",
+          "shortName": "YC",
+          "variant": "28g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 220,
+          "scheme": "15% Extra",
+          "category": "Puffcorn"
+        },
+        {
+          "id": "KURKURE_YC_52G",
+          "name": "Playz Puffcorn Yummy Cheese",
+          "shortName": "YC",
+          "variant": "52g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 150,
+          "scheme": null,
+          "category": "Puffcorn"
+        },
+        {
+          "id": "KURKURE_YC_84G",
+          "name": "Playz Puffcorn Yummy Cheese",
+          "shortName": "YC",
+          "variant": "84g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 80,
+          "scheme": "Buy 3 Get 1",
+          "category": "Puffcorn"
+        },
+        {
+          "id": "KURKURE_MM_18G",
+          "name": "Masala Munch",
+          "shortName": "MM",
+          "variant": "18g",
+          "mrp": 5,
+          "ptr": 4.5,
+          "stock": 280,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "KURKURE_MM_48G",
+          "name": "Masala Munch",
+          "shortName": "MM",
+          "variant": "48g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 180,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "KURKURE_MM_78G",
+          "name": "Masala Munch",
+          "shortName": "MM",
+          "variant": "78g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 120,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "KURKURE_MM_94G",
+          "name": "Masala Munch",
+          "shortName": "MM",
+          "variant": "94g",
+          "mrp": 30,
+          "ptr": 27,
+          "stock": 90,
+          "scheme": null,
+          "category": "Regular"
+        }
+      ]
+    },
+    "cheetos": {
+      "name": "Cheetos",
+      "logo": "https://www.pepsico.com/images/default-source/dev-testing-images/cheetos.png?sfvrsn=d130632b_1",
+      "icon": "🧀",
+      "products": [
+        {
+          "id": "CHEETOS_MB_28G",
+          "name": "Masala Balls",
+          "shortName": "M Balls",
+          "variant": "28g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 200,
+          "scheme": null,
+          "category": "Balls"
+        },
+        {
+          "id": "CHEETOS_MB_84G",
+          "name": "Masala Balls",
+          "shortName": "M Balls",
+          "variant": "84g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 80,
+          "scheme": "Buy 2 Get 1",
+          "category": "Balls"
+        },
+        {
+          "id": "CHEETOS_CP_28G",
+          "name": "Cheese Puffs",
+          "shortName": "C Puffs",
+          "variant": "28g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 180,
+          "scheme": null,
+          "category": "Puffs"
+        }
+      ]
+    },
+    "uncle-chips": {
+      "name": "Uncle Chips",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/Unclechipps_brand_logo.png",
+      "icon": "🥨",
+      "products": [
+        {
+          "id": "UC_ST_13G",
+          "name": "Spicy Treat",
+          "shortName": "ST",
+          "variant": "13g",
+          "mrp": 5,
+          "ptr": 4.5,
+          "stock": 250,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "UC_ST_24G",
+          "name": "Spicy Treat",
+          "shortName": "ST",
+          "variant": "24g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 180,
+          "scheme": "10% Extra",
+          "category": "Regular"
+        },
+        {
+          "id": "UC_ST_48_1G",
+          "name": "Spicy Treat",
+          "shortName": "ST",
+          "variant": "48.1g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 120,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "UC_ST_80G",
+          "name": "Spicy Treat",
+          "shortName": "ST",
+          "variant": "80g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 70,
+          "scheme": null,
+          "category": "Family Pack"
+        },
+        {
+          "id": "UC_PS_13G",
+          "name": "Plain Salted",
+          "shortName": "PS",
+          "variant": "13g",
+          "mrp": 5,
+          "ptr": 4.5,
+          "stock": 230,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "UC_PS_24G",
+          "name": "Plain Salted",
+          "shortName": "PS",
+          "variant": "24g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 160,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "UC_PS_48_1G",
+          "name": "Plain Salted",
+          "shortName": "PS",
+          "variant": "48.1g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 110,
+          "scheme": null,
+          "category": "Regular"
+        },
+        {
+          "id": "UC_PS_80G",
+          "name": "Plain Salted",
+          "shortName": "PS",
+          "variant": "80g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 65,
+          "scheme": null,
+          "category": "Family Pack"
+        }
+      ]
+    },
+    "quaker": {
+      "name": "Quaker",
+      "logo": "https://www.pepsico.com/images/default-source/products-brands/quaker-logo---320x320.png?sfvrsn=21025608_3",
+      "icon": "🌾",
+      "products": [
+        {
+          "id": "QK_OATS_200G",
+          "name": "Oats",
+          "shortName": "QK",
+          "variant": "200g",
+          "mrp": 60,
+          "ptr": 54,
+          "stock": 150,
+          "scheme": null,
+          "category": "Oats"
+        },
+        {
+          "id": "QK_OATS_400G",
+          "name": "Oats",
+          "shortName": "QK",
+          "variant": "400g",
+          "mrp": 86,
+          "ptr": 77.4,
+          "stock": 120,
+          "scheme": "Free Bowl",
+          "category": "Oats"
+        },
+        {
+          "id": "QK_OATS_500G_JAR",
+          "name": "Oats",
+          "shortName": "QK",
+          "variant": "500g Jar",
+          "mrp": 135,
+          "ptr": 121.5,
+          "stock": 80,
+          "scheme": null,
+          "category": "Oats"
+        },
+        {
+          "id": "QK_OATS_600G",
+          "name": "Oats",
+          "shortName": "QK",
+          "variant": "600g",
+          "mrp": 129,
+          "ptr": 116.1,
+          "stock": 90,
+          "scheme": null,
+          "category": "Oats"
+        },
+        {
+          "id": "QK_OATS_1KG_JAR",
+          "name": "Oats",
+          "shortName": "QK",
+          "variant": "1kg Jar",
+          "mrp": 238,
+          "ptr": 214.2,
+          "stock": 60,
+          "scheme": null,
+          "category": "Oats"
+        },
+        {
+          "id": "QK_OATS_1KG_REFILL",
+          "name": "Oats",
+          "shortName": "QK",
+          "variant": "1kg Refill",
+          "mrp": 210,
+          "ptr": 189,
+          "stock": 70,
+          "scheme": null,
+          "category": "Oats"
+        }
+      ]
+    },
+    "lays-wafer": {
+      "name": "Lay's Wafer Chips",
+      "logo": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/CIW/2025/6/3/72a7bd83-6a08-4013-8db9-f4687009d9a6_12079_1.png",
+      "icon": "🟡",
+      "products": [
+        {
+          "id": "LAYS_WAFER_SP_22G",
+          "name": "Salt and Pepper",
+          "shortName": "S nd P",
+          "variant": "22g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 150,
+          "scheme": null,
+          "category": "Wafer"
+        },
+        {
+          "id": "LAYS_WAFER_SP_48G",
+          "name": "Salt and Pepper",
+          "shortName": "S nd P",
+          "variant": "48g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 100,
+          "scheme": null,
+          "category": "Wafer"
+        },
+        {
+          "id": "LAYS_WAFER_CO_22G",
+          "name": "Cream & Onion",
+          "shortName": "R C",
+          "variant": "22g",
+          "mrp": 10,
+          "ptr": 9,
+          "stock": 140,
+          "scheme": "10% Extra",
+          "category": "Wafer"
+        },
+        {
+          "id": "LAYS_WAFER_CO_48G",
+          "name": "Cream & Onion",
+          "shortName": "R C",
+          "variant": "48g",
+          "mrp": 20,
+          "ptr": 18,
+          "stock": 90,
+          "scheme": null,
+          "category": "Wafer"
+        },
+        {
+          "id": "LAYS_WAFER_CO_82G",
+          "name": "Cream & Onion",
+          "shortName": "R C",
+          "variant": "82g",
+          "mrp": 50,
+          "ptr": 45,
+          "stock": 60,
+          "scheme": null,
+          "category": "Wafer"
+        }
+      ]
+    }
+  }
+}
