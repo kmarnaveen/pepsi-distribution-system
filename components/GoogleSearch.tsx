@@ -271,7 +271,7 @@ export default function GoogleSearch({
               className="flex items-center px-4 py-2 hover:bg-gray-50 cursor-pointer border-b border-gray-100"
             >
               <Search className="w-4 h-4 text-gray-400 mr-3" />
-              <span className="text-gray-900">Search for "{localQuery}"</span>
+              <span className="text-gray-900">Search for &quot;{localQuery}&quot;</span>
             </div>
           )}
 
@@ -347,7 +347,7 @@ export default function GoogleSearch({
           {localQuery.trim() && suggestions.length === 0 && (
             <div className="px-4 py-6 text-center text-gray-500">
               <Search className="w-8 h-8 text-gray-300 mx-auto mb-2" />
-              <p className="text-sm font-medium">No suggestions found for "{localQuery}"</p>
+              <p className="text-sm font-medium">No suggestions found for &quot;{localQuery}&quot;</p>
               <p className="text-xs text-gray-400 mt-1">Try searching for brands like Lays, Doritos, Kurkure</p>
               <div className="mt-3 flex flex-wrap gap-1 justify-center">
                 {["Lays", "Doritos", "Kurkure", "Cheetos"].map((brand) => (
